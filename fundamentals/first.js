@@ -1,1 +1,1 @@
-Ext: console.log( 'Welcome on borad' );
+Ext: console.log( 'Welcome on board' );
