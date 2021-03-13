@@ -1,0 +1,31 @@
+/* body {
+    color: blueviolet;
+    background: cornflowerblue;
+}
+
+.mylove {
+    color: crimson;
+}
+
+#contact-us {
+    color: darkgoldenrod;
+} */
+
+h1:hover {
+    color: red;
+}
+
+.subtitle {
+    color: blue;
+}
+
+#mytitle {
+    color: green;
+}
+
+li:only-child {
+    color: rgba(0, 119, 128, 0.63);
+}
+
+
+
