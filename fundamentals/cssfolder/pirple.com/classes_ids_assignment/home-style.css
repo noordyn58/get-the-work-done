@@ -1,0 +1,91 @@
+.mybody {
+	background-color: #999;
+	width: 700px;
+	margin: auto;
+
+}
+
+.para {
+	padding-left: 20px;
+}
+
+.base {
+	padding-left: 30px;
+	list-style-type: square;
+
+}
+
+.method {
+	padding-left: 30px;
+	list-style-type: lower-roman;
+}
+
+
+.main {
+	padding-left: 30px;
+	list-style-type: square;
+}
+
+#face {
+	border: 1px solid white;
+	width: 500px;
+	height: 351px;
+}
+
+#mine {
+	border: 1px solid white;
+	width:500px; 
+	height:454px;
+}
+
+.one {
+	font-style: italic;
+	font-style: inherit;
+}
+
+div > p > .one {
+	color: red;
+}
+
+#two {
+	text-decoration: underline;
+}
+
+#font {
+	font-weight: bold;
+}
+
+#weight{
+	font-weight: bolder;
+}
+
+
+p, li {
+	font-size: 20px;
+	color: #601815;
+}
+
+
+h1, h2 {
+	padding-bottom: 20px;
+	color: #2b8622;
+	text-indent: 150px;
+	font-family: sans-serif;
+
+}
+
+
+h1 {
+	text-decoration: underline;
+	font-weight: bold;
+	margin-top: 50px;
+}
+
+
+ul, a{
+	color: #601815; 
+}
+
+
+/* made do with http://www.developer.mozilla.org to get various other css properties*/
+
